@@ -1,5 +1,8 @@
 # superpooper package
 
-A short description of your package.
+Just trying out that fancy atom editor.
 
-![A screenshot of your spankin' package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+Also, these coffescript syntax links help:
+- https://atom.io/docs/v0.123.0/your-first-package
+- http://arcturo.github.io/library/coffeescript/02_syntax.html
+- http://learnxinyminutes.com/docs/coffeescript/
