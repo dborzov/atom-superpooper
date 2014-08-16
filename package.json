@@ -1,0 +1,14 @@
+{
+  "name": "superpooper",
+  "main": "./lib/superpooper",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "activationEvents": ["superpooper:claim"],
+  "repository": "https://github.com/atom/superpooper",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
